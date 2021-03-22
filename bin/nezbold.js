@@ -7,4 +7,4 @@ const nezbold = {
   }
 }
 
-module.exports = { nezbold }
+module.exports = nezbold;
